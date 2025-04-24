@@ -38,12 +38,15 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/product-catalog-app.git
 2. Navigate to the frontend directory:
-```bash
-  cd product-catalog-app/frontend
+    ```bash
+      cd product-catalog-app/frontend
+    ```
 3. Install dependencies:
-```bash
-  npm install
+    ```bash
+      npm install
+    ```
 4. Run the app:
-```bash
-  npm start
+    ```bash
+      npm start
+    ```
 Open your browser and visit http://localhost:3000.
